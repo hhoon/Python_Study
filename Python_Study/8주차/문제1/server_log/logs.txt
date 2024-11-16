@@ -1,0 +1,4 @@
+2024-11-01 10:00:00 INFO Server started
+2024-11-01 10:05:00 ERROR Disk space low
+2024-11-01 10:10:00 WARNING High memory usage
+2024-11-01 10:15:00 ERROR Network down
