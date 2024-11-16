@@ -1,0 +1,10 @@
+# RAID 상태 정보 (1시간 간격으로 기록)
+2024-11-04 15:00:00
+RAID_Level: 1
+Disk_Count: 2
+Status: Active
+Read_Speed_MB: 250
+Write_Speed_MB: 180
+Disks:
+- /dev/sda: Active
+- /dev/sdb: Active, Degraded

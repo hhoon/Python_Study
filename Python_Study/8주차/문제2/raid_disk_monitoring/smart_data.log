@@ -1,0 +1,12 @@
+# 각 디스크의 기본 정보 (1시간 간격으로 기록)
+2024-11-04 15:00:00, /dev/sda
+Health_Status: GOOD
+Reallocated_Sectors: 0
+Temperature: 25
+Power_On_Hours: 15245
+
+2024-11-04 15:00:00, /dev/sdb
+Health_Status: WARNING
+Reallocated_Sectors: 45
+Temperature: 32
+Power_On_Hours: 35120
