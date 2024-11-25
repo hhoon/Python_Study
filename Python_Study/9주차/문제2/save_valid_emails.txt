@@ -1,0 +1,4 @@
+유효한 이메일 주소
+- messi.l@dkt.com
+- joey.o@dkt.com
+- test_user@dkt.com

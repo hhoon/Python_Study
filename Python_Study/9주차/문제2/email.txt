@@ -1,0 +1,4 @@
+messi.l@dkt.com
+joey.o@dkt.com
+spy.email@naver.com
+test_user@dkt.com
