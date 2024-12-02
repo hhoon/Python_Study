@@ -1,0 +1,6 @@
+cloudflare_dns 1.1.1.1
+Google_dns 8.8.8.8
+daum 123.222.123.123
+xxx 123.456
+Google_dns2 8.8.4.4
+zzz 1111.2222.3333.4444.5555

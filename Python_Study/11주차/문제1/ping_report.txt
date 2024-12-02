@@ -1,0 +1,4 @@
+cloudflare_dns : 1.1.1.1 OK
+Google_dns : 8.8.8.8 OK
+daum : 123.222.123.123 FAIL
+Google_dns2 : 8.8.4.4 OK
