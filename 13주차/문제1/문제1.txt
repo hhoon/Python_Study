@@ -1,0 +1,2 @@
+1. 간단한 Flask 서버 생성
+            • localhost:5000에서 “Hello, World!“를 출력하는 웹 서버 작성.
